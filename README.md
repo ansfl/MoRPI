@@ -1,4 +1,4 @@
-<img src="https://github.com/ansfl/MEMS-IMU-Denoising/blob/main/figrues/Logo.png?raw=true" width="500" />
+&nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  <img src="https://github.com/ansfl/MEMS-IMU-Denoising/blob/main/figrues/Logo.png?raw=true" width="500" />
 
 # MoRPI: Mobile Robot Pure Inertial Navigation
 
@@ -24,6 +24,8 @@ Two different smartphones, with different inertial sensors, were used in our exp
   2. A Samsung Galaxy S6 smartphone with an IMU model of MPU-6500 manufactured by TDK InvenSense.
 In both smartphones, the inertial sensor readings were recorded with a sampling rate of 100Hz.
 
+![Alt text](/Figures/RC_car_2_phones.jpg "RC Car")
+
 Five types of trajectories were made during the field experiments: Straight Line, Periodic Motion - Short Route, Periodic Motion - Long Route, L-Shaped - Straight Lines
 and L-Shaped - Periodic Motion.
 One hundred and three experiments were made indoors on a floor, while 40 experiments were recorded outdoors on an asphalt surface. The dataset of the periodic 
@@ -31,6 +33,8 @@ movement was split to have a variety of velocities in both train and test sets, 
 The groups were divided almost equally.
 
 ## Algorithm
+
+![Alt text](/Figures/MoRPI_scheme.png "MoRPI Scheme")
 
 Both of Our MoRPI approaches consist of the following phases:
   1. **Peak detection**: The peaks during the motion are extracted as local maxima from the inertial measurements.
