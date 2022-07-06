@@ -34,7 +34,7 @@ The groups were divided almost equally.
 
 ## Algorithm
 
-![Alt text](/figures/MoRPI_scheme.png "MoRPI Scheme")
+![Alt text](/figures/MoRPI_scheme.jpg "MoRPI Scheme")
 
 Both of Our MoRPI approaches consist of the following phases:
   1. **Peak detection**: The peaks during the motion are extracted as local maxima from the inertial measurements.
