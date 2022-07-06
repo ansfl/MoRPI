@@ -24,7 +24,7 @@ Two different smartphones, with different inertial sensors, were used in our exp
   2. A Samsung Galaxy S6 smartphone with an IMU model of MPU-6500 manufactured by TDK InvenSense.
 In both smartphones, the inertial sensor readings were recorded with a sampling rate of 100Hz.
 
-![Alt text](/Figures/RC_car_2_phones.jpg "RC Car")
+![Alt text](/figures/RC_car_2_phones.jpg "RC Car")
 
 Five types of trajectories were made during the field experiments: Straight Line, Periodic Motion - Short Route, Periodic Motion - Long Route, L-Shaped - Straight Lines
 and L-Shaped - Periodic Motion.
@@ -34,7 +34,7 @@ The groups were divided almost equally.
 
 ## Algorithm
 
-![Alt text](/Figures/MoRPI_scheme.png "MoRPI Scheme")
+![Alt text](/figures/MoRPI_scheme.png "MoRPI Scheme")
 
 Both of Our MoRPI approaches consist of the following phases:
   1. **Peak detection**: The peaks during the motion are extracted as local maxima from the inertial measurements.
