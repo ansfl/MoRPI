@@ -52,7 +52,13 @@ Both of Our MoRPI approaches consist of the following phases:
  
  If you found the experimental DATA useful or used our algorithm for your research, please cite our paper:
  ```
- 
+ @article{etzion2022morpi,
+  title={MoRPI: Mobile Robot Pure Inertial Navigation},
+  author = {Etzion, Aviad and Klein, Itzik}
+  journal={arXiv preprint arXiv:2207.02982},
+  url = {https://arxiv.org/abs/2207.02982},
+  year={2022},
+}
  ```
  
- [<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/250px-ArXiv_web.svg.png width=70/>](https://arxiv.org)
+ [<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/250px-ArXiv_web.svg.png width=70/>](https://arxiv.org/abs/2207.02982)
