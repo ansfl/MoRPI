@@ -1,4 +1,6 @@
-&nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  <img src="https://github.com/ansfl/MEMS-IMU-Denoising/blob/main/figrues/Logo.png?raw=true" width="500" />
+<p align="center">
+<img src="/figures/RC_car_2_phones.jpg" alt="RC Car" width="500">
+</p>
 
 # MoRPI: Mobile Robot Pure Inertial Navigation
 
@@ -23,8 +25,6 @@ Two different smartphones, with different inertial sensors, were used in our exp
   1. A Samsung Galaxy S8 Smartphone with an IMU model of LSM6DSL manufactured by STMicroelectronics. 
   2. A Samsung Galaxy S6 smartphone with an IMU model of MPU-6500 manufactured by TDK InvenSense.
 In both smartphones, the inertial sensor readings were recorded with a sampling rate of 100Hz.
-
-<img src="/figures/RC_car_2_phones.jpg" alt="RC Car" width="500">
 
 Five types of trajectories were made during the field experiments: Straight Line, Periodic Motion - Short Route, Periodic Motion - Long Route, L-Shaped - Straight Lines
 and L-Shaped - Periodic Motion.
@@ -62,3 +62,8 @@ Both of Our MoRPI approaches consist of the following phases:
  ```
  
  [<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/250px-ArXiv_web.svg.png width=70/>](https://arxiv.org/abs/2207.02982)
+ 
+<p align="center">
+<img src="https://github.com/ansfl/MEMS-IMU-Denoising/blob/main/figrues/Logo.png?raw=true" width="500" class="center"/>
+</p>
+
