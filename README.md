@@ -54,7 +54,7 @@ Both of Our MoRPI approaches consist of the following phases:
  ```
  @article{etzion2022morpi,
   title={MoRPI: Mobile Robot Pure Inertial Navigation},
-  author = {Etzion, Aviad and Klein, Itzik}
+  author = {Etzion, Aviad and Klein, Itzik},
   journal={arXiv preprint arXiv:2207.02982},
   url = {https://arxiv.org/abs/2207.02982},
   year={2022},
