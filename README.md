@@ -45,9 +45,7 @@ Both of Our MoRPI approaches consist of the following phases:
   4. **Heading determination**: We use the heading extracted from the transfer matrix to project the peak-to-peak distance into local planar coordinates.
   5. **Position update**: As a dead-reckoning method, the position is updated relative to the previous step while using the current heading angle and peak-to-peak 
      distance.
-     
- **The code will be available soon**
- 
+      
  ## Citation
  
  If you found the experimental DATA useful or used our algorithm for your research, please cite our paper:
